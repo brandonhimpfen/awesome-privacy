@@ -87,6 +87,7 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [Cryptomator](https://cryptomator.org/) – Encrypt files before uploading to the cloud.
 - [Veracrypt](https://www.veracrypt.fr/) – Disk encryption tool for files, partitions, and drives.
 - [Tresorit](https://tresorit.com/) – Encrypted cloud storage for teams and individuals.
+- [ConvertPrivately](https://convertprivately.com) – Privacy-first file conversion and utility tools for PDFs, images, documents, and data. Almost all of the 250+ tools run directly in the browser with no uploads or tracking (with a clear warning for the few that require server-side processing).
 
 ## Identity & Metadata Protection
 
