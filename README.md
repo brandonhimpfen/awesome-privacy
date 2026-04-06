@@ -57,6 +57,7 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [Proton Mail](https://proton.me/mail) – End-to-end encrypted email service.
 - [Tutanota](https://tutanota.com/) – Secure, encrypted email with open-source clients.
 - [Mailfence](https://mailfence.com/) – Private email suite based in Belgium.
+- [anon.li Alias](https://anon.li/alias) – Protect you email with email aliasing. Create 10 aliases for free with PGP encryption and reply capability.
 
 ## Messaging Apps
 
@@ -87,6 +88,7 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [Cryptomator](https://cryptomator.org/) – Encrypt files before uploading to the cloud.
 - [Veracrypt](https://www.veracrypt.fr/) – Disk encryption tool for files, partitions, and drives.
 - [Tresorit](https://tresorit.com/) – Encrypted cloud storage for teams and individuals.
+- [anon.li Drop](https://anon.li/drop) – Securely share files with client-side AES-256-GCM end-to-end encryption. Share up to 250GB for up to 30 days.
 
 ## Identity & Metadata Protection
 
