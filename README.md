@@ -93,6 +93,7 @@ This list is for individuals, developers, journalists, activists, and anyone int
 - [SimpleLogin](https://simplelogin.io/) – Email aliasing to protect your real address.
 - [Firefox Relay](https://relay.firefox.com/) – Masked email forwarding.
 - [Anonymized](https://anonymized.io/) – Disposable identity generation.
+- [VerifySMS](https://verifysms.app/) – Disposable virtual phone numbers in 200+ countries for receiving SMS verification codes without exposing your real number.
 
 ## Guides & Learning
 
