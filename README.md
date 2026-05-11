@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Messaging Apps
 
+- [A/SIDE](https://a-side.social) – Private social network with end-to-end encryption using the Signal Protocol. No algorithmic feed, no ads, and no AI training on user content.
 - [Signal](https://signal.org/) – End-to-end encrypted messaging and calling.
 - [Session](https://getsession.org/) – Anonymous messenger with no phone number required.
 - [Threema](https://threema.ch/) – Privacy-centric messaging app with Swiss hosting.
