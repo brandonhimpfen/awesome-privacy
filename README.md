@@ -90,6 +90,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Cryptomator](https://cryptomator.org/) – Encrypt files before uploading to the cloud.
 - [Veracrypt](https://www.veracrypt.fr/) – Disk encryption tool for files, partitions, and drives.
 - [Tresorit](https://tresorit.com/) – Encrypted cloud storage for teams and individuals.
+- [UltraLocked](https://ultralocked.com) – iOS file vault with Secure Enclave-backed encryption. Fully offline — no account, no cloud sync, no telemetry.
 
 ## Identity & Metadata Protection
 
