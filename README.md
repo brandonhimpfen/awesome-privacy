@@ -96,6 +96,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [SimpleLogin](https://simplelogin.io/) – Email aliasing to protect your real address.
 - [Firefox Relay](https://relay.firefox.com/) – Masked email forwarding.
 - [Anonymized](https://anonymized.io/) – Disposable identity generation.
+- [Clearly](https://clearlyprivacy.app/) – iOS app that alerts you when your accounts appear in a known data breach, matched against the Have I Been Pwned catalog.
 
 ## Guides & Learning
 
