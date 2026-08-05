@@ -96,6 +96,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [SimpleLogin](https://simplelogin.io/) – Email aliasing to protect your real address.
 - [Firefox Relay](https://relay.firefox.com/) – Masked email forwarding.
 - [Anonymized](https://anonymized.io/) – Disposable identity generation.
+- [LinksGone](https://www.linksgone.com/) – Free removal notices for deepfakes, non-consensual intimate images, and impersonation.
 
 ## Guides & Learning
 
