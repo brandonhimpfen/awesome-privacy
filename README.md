@@ -1,4 +1,4 @@
-# Awesome Privacy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+﻿# Awesome Privacy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
 [![DOI](https://zenodo.org/badge/1010380944.svg)](https://doi.org/10.5281/zenodo.19681718)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -36,6 +36,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PrivacyTools.io](https://www.privacytools.io/) – Comprehensive privacy tool recommendations.
 - [Restore Privacy](https://restoreprivacy.com/) – Independent research and reviews of privacy tools.
 - [PRISM Break](https://prism-break.org/) – Tools to opt out of surveillance programs.
+- [Korelyy](https://korelyy.com) - Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators). No signup, runs entirely in your browser. Six languages supported.
 
 ## Privacy Browsers
 
@@ -125,3 +126,4 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
