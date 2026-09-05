@@ -1,4 +1,4 @@
-# Awesome Privacy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Privacy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010380944.svg)](https://doi.org/10.5281/zenodo.19681718)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -111,10 +111,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom)** – Tools and platforms to protect freedom online.
-- **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint)** – Open source intelligence tools (some overlap with privacy).
-- **[Awesome Cybersecurity](https://github.com/awesomelistsio/awesome-ctf)** – Broader security tools, including privacy-enhancing tech.
-- **[Awesome Selfhosted](https://github.com/awesomelistsio/awesome-selfhosted)** – Alternatives to commercial services, often privacy-respecting.
+- **[Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom)** – Tools and platforms to protect freedom online.
+- **[Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint)** – Open source intelligence tools (some overlap with privacy).
+- **[Awesome Cybersecurity](https://github.com/brandonhimpfen/awesome-ctf)** – Broader security tools, including privacy-enhancing tech.
+- **[Awesome Selfhosted](https://github.com/brandonhimpfen/awesome-selfhosted)** – Alternatives to commercial services, often privacy-respecting.
 
 ## Contribute
 
